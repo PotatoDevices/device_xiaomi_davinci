@@ -20,6 +20,11 @@
     "target_path" : "vendor/xiaomi/sm6150-common"
 },
 {
+    "repository"  : "adi8900/vendor_xiaomi_sm6150-common-extra",
+    "target_path" : "vendor/xiaomi/sm6150-common-extra",
+    "branch": "twelve"
+},
+{
     "repository": "PotatoDevices/hardware_xiaomi",
     "target_path": "hardware/xiaomi"
 }
